@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TziKWiNmXHU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\there\\OneDrive\\Desktop\\Projects\\uber-versus-doordash\\uber-versus-doordash\\uber-versus-doordash.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\there\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\there\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

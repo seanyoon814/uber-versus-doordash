@@ -1,0 +1,6 @@
+@uber_versus_doordash_HostAddress = http://localhost:5185
+
+GET {{uber_versus_doordash_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
